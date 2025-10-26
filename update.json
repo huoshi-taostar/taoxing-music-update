@@ -1,8 +1,9 @@
 {
-  "version": "1.2.8.6",
-  "message": "发现新版本  - 核心版本更新 新增 麦克风，粒子优化和按钮互换。 立即前往 桃星音乐 官网 开始下载更新。",
-  "url": "https://huoshi-taoxing.github.io/taoxing-music/taoxing-music-web/download/"
+  "version": "1.2.8.7",
+  "message": "发现新版本  - 核心版本更新 新增 x 键 隐藏节奏环外部线条，长按多选删除音乐按钮。 立即前往 桃星音乐 官网 开始下载更新。",
+  "url": "https://huoshi-taostar.github.io/taostar-music/taostar-music-web/download/"
 }
+
 
 
 
