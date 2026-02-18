@@ -1,8 +1,9 @@
 {
-  "version": "1.2.9.0",
-  "message": "发现新版本  - 核心版本重大更新 。 立即前往 桃星音乐官网 下载更新! ",
+  "version": "1.2.9.0-new",
+  "message": "发现新版本  - 核心版本重大更新 - 如果已经下载最新版本，但仍出现更像通知，可以忽略此通知。 ",
   "url": "https://huoshi-taostar.github.io/taostar-music/taostar-music-web/download/"
 }
+
 
 
 
